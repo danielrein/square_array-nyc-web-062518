@@ -3,5 +3,5 @@ def square_array(array)
   array.each do |x|
     newArray.push(x * x)
   end
-  array
+  newArray
 end
